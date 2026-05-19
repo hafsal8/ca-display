@@ -116,4 +116,8 @@ Successfully built a fully working custom 4-digit 7-segment display driver using
 
 Muhammed Hafsal
 
-Embedded Systems & IoT Enthusiast 🚀
+Embedded Systems & IoT Enthusiast 
+<img width="1200" height="1600" alt="display1" src="https://github.com/user-attachments/assets/37f9fef9-882c-4c62-acc3-c6907f0105a5" />
+<img width="933" height="509" alt="schematic" src="https://github.com/user-attachments/assets/a5205df9-9eff-4757-b75f-7178c1f831e0" />
+
+
